@@ -1,7 +1,7 @@
-# AI-dungeon-master
+# ai-dungeon-master
 Adaptive narrative RPG engine built in Python
 
-# AI Dungeon Master – Adaptive Narrative Engine
+# ai Dungeon Master – Adaptive Narrative Engine
 
 A modular Python-based AI storytelling engine featuring class-specific story arcs, adaptive combat systems, and branching narrative logic.
 
